@@ -1,0 +1,5 @@
+C:\Src\spikes.cs\Tiler\LowLevelKeyInterceptor\obj\Debug\LowLevelKeyInterceptor.csprojResolveAssemblyReference.cache
+C:\Src\spikes.cs\Tiler\LowLevelKeyInterceptor\bin\Debug\LowLevelKeyInterceptor.dll
+C:\Src\spikes.cs\Tiler\LowLevelKeyInterceptor\bin\Debug\LowLevelKeyInterceptor.pdb
+C:\Src\spikes.cs\Tiler\LowLevelKeyInterceptor\obj\Debug\LowLevelKeyInterceptor.dll
+C:\Src\spikes.cs\Tiler\LowLevelKeyInterceptor\obj\Debug\LowLevelKeyInterceptor.pdb

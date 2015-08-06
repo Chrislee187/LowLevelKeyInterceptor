@@ -1,0 +1,8 @@
+C:\Src\spikes.cs\Tiler\Spike\bin\Debug\Spike.exe.config
+C:\Src\spikes.cs\Tiler\Spike\bin\Debug\Spike.exe
+C:\Src\spikes.cs\Tiler\Spike\bin\Debug\Spike.pdb
+C:\Src\spikes.cs\Tiler\Spike\obj\Debug\Spike.csprojResolveAssemblyReference.cache
+C:\Src\spikes.cs\Tiler\Spike\obj\Debug\Spike.exe
+C:\Src\spikes.cs\Tiler\Spike\obj\Debug\Spike.pdb
+C:\Src\spikes.cs\Tiler\Spike\bin\Debug\LowLevelKeyInterceptor.dll
+C:\Src\spikes.cs\Tiler\Spike\bin\Debug\LowLevelKeyInterceptor.pdb
